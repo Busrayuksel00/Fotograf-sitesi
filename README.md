@@ -1,3 +1,3 @@
 # Fotograf-sitesi
  Fotograf cesitleri olan site
-html css yaptığım projedir.
+html css ile yapıldı.
